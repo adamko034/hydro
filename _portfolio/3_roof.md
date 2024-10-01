@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Dachy
   subtitle: Kompleksowa hydroizolacja dachów, skutecznie chroniąca przed opadami deszczu, śniegiem i wilgocią.
-  thumbnail: ../assets/img/portfolio/roof.jpg
+  thumbnail: assets//img/portfolio/roof.jpg
 
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: ../assets/img/portfolio/roof.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets//img/portfolio/roof.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 ---
 
