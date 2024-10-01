@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Parkingi i garaże
   subtitle: Kompleksowe systemy hydroizolacji dla wielopoziomowych parkingów oraz garaży podziemnych.
-  thumbnail: assets//img/portfolio/garage.jpg
+  thumbnail: assets/img/portfolio/garage.jpg
 
 #what displays when the item is clicked:
 title: Parkingi i garaże
 subtitle: Kompleksowe systemy hydroizolacji dla wielopoziomowych parkingów oraz garaży podziemnych.
-image: assets//img/portfolio/garage.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/garage.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 ---
 

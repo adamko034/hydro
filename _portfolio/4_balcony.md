@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Tarasy i balkony
   subtitle: Uszczelnienie tarasów i balkonów, aby zapobiec przenikaniu wody do konstrukcji budynku.
-  thumbnail: assets//img/portfolio/balcony.jpg
+  thumbnail: assets/img/portfolio/balcony.jpg
 
 #what displays when the item is clicked:
 title: Tarasy i balkony
 subtitle: Uszczelnienie tarasów i balkonów, aby zapobiec przenikaniu wody do konstrukcji budynku.
-image: assets//img/portfolio/roof.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/roof.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 ---
 
